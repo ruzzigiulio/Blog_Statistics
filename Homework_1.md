@@ -38,7 +38,8 @@ In C # it is possible to pass arguments to a function by value and by reference.
 Passing by reference, on the other hand, allows functions to modify the value of the parameters and make the changes permanent within the calling environment through the "ref" statement. 
 As we can see in the code below, when the argument is passed by value no change occurs, while when it is passed by reference the value (arg = 4) within the calling environment is changed (4 * 4 = 16) .  
 
-```class Program
+```
+class Program
 {
     static void Main(string[] args)
     {
@@ -77,7 +78,8 @@ using the ByVal and ByRef commands.
 ByVal means that you are passing a copy of a variable, while ByRef does not pass a copy but a pointer to the
 original variable. With ByRef the calling procedure can therefore modify the variable and its members.
 
-```Public Class Simple
+```
+Public Class Simple
     Sub Main()
         Dim value As Integer = 1
 
