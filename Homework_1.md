@@ -26,9 +26,9 @@ Let's take as an example a set of players (X) within a football team and as a va
 A frequency distribution (histograms, line charts, bar charts and pie charts) instead shows the data in an organized way through a summary of data divided into classes that are mutually exclusive.  
 For example, we could have a histogram showing the division of the players within the team based on their height.  
 
-It is **not** possible to reconstruct a dataset from a distribution since *there is a loss* of data when passing from the dataset to the distribution, as the association between units (which make up the set of statistical units) and value is lost.  
+It is **not** possible to reconstruct a dataset from a distribution since *there is a loss of data* when passing from the dataset to the distribution, as the association between units (which make up the set of statistical units) and value is lost.  
 This event is wanted since we want to maintain data privacy, in fact we do not want an association between
-unit and specific value. In this process, **information is lost but knowledge is gained.**
+unit and specific value. In this process **information is lost but knowledge is gained.**
 
 ### 1_A  
 
@@ -37,9 +37,10 @@ unit and specific value. In this process, **information is lost but knowledge is
 
 ### 2_A
 
-In C # it is possible to pass arguments to a function by value and by reference. When you pass a variable of type value to a method, you pass a copy of the variable to the method.
-Passing by reference, on the other hand, allows functions to modify the value of the parameters and make the changes permanent within the calling environment through the "ref" statement. 
-As we can see in the code below, when the argument is passed by value no change occurs, while when it is passed by reference the value (arg = 4) within the calling environment is changed (4 * 4 = 16) .  
+In C # it is possible to pass arguments to a function **by value** and **by reference**. When you pass a variable of type value to a method, you pass a copy of the variable to the method.  
+Passing by reference, on the other hand, allows functions to modify the value of the parameters and make the changes permanent within the calling environment through the "ref" statement.  
+
+As we can see in the code below, when the argument is passed by value *no change occurs*, while when it is passed by reference the value (arg = 4) within the calling environment *is changed* (4 * 4 = 16) .  
 
 ```
 class Program
@@ -76,9 +77,9 @@ class Program
 } 
 ```
 
-Also in VB.Net it is possible to pass arguments to a function by value and by reference, respectively
-using the ByVal and ByRef commands.
-ByVal means that you are passing a copy of a variable, while ByRef does not pass a copy but a pointer to the
+Also in VB.Net it is possible to pass arguments to a function **by value** and **by reference**, respectively
+using the *ByVal* and *ByRef* commands.  
+ByVal means that you are passing a **copy** of a variable, while ByRef does not pass a copy but a **pointer** to the
 original variable. With ByRef the calling procedure can therefore modify the variable and its members.
 
 ```
@@ -108,16 +109,18 @@ End Class
 ### 1_RA 
 
 In C # to respond to an event you need to define an event handler method (richTextBox1_DragDrop
-in the previous exercise) within the function that takes care of receiving events (UserControl1).
-In the event handler you define the necessary actions that must be performed when the event is raised.
-In VB, the Handles keyword is used when defining a function to specify that function
-handles a particular event, the AddHandler keyword is used for
-associate an event with an event handler at run time. Personally it seems more comfortable and intuitive to me
+in the exercises 1_A) *within* the function that takes care of receiving events (UserControl1).  
+In the event handler you define the necessary actions that must be performed when the event is raised.  
+
+In VB, the *Handles* keyword is used when defining a function to specify that function
+handles a particular event, the *AddHandler* keyword is used for
+associate an event with an event handler at run time.   
+Personally it seems more comfortable and intuitive to me the
 event management in VB.Net, but in general the syntax of c # is similar to other programming languages I know, so I will probably use it.  
 
 ### 2_RA
 
-The two files have a similar role, they constitute the entry point of the programs: As is clearly explained in the Program.cs file by a self-generated comment.
+The two files have a similar role, they constitute the *entry point* of the programs: As is clearly explained in the Program.cs file by a self-generated comment.
 
 ```
 using DevExpress.XtraEditors;
