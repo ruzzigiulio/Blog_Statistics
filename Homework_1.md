@@ -2,30 +2,33 @@
 
 In statistics, a statistical population is a set of entities, also known as "units", that can be grouped together by a common feature.
 They are subject of study due to some interest questions.  
-In **Descriptive Statistics**, *population* is the object from where extract informations, in the
-other hand in **Inferential Statistics** it can be treat as the means to make inferences about
+In **Descriptive Statistics**, population is the *object* from where extract informations, in the
+other hand in **Inferential Statistics** it can be treat as the *means* to make inferences about
 the population itself.  
 
 ### 2_R
 
-In statistics, an attribute is a characteristic that describes an entity (person, thing)
-A variable is an attribute that varies according to the nature of the entity.
-For example, if we take a person as an example, a variable is gender, since
-describes the person (an attribute), but can vary (man, woman).
-A dataset is a collection of data that are usually organized in tables, which constitute 
-the starting point of statistical analyzes. 
+In statistics, an **attribute** is a characteristic that describes an entity (person, thing).  
+A **variable** is an attribute that varies according to the nature of the entity.  
+
+Example: if we take a person, a variable is gender, since
+describes the person (an attribute), but can vary (man, woman).  
+
+A **dataset** is a collection of data that are usually organized in tables, which constitutes
+the *starting point* of statistical analyzes. 
 The data comes from a statistical population using various sampling techniques, like
 random sampling, probabilistic sampling, judgmental sampling, convenience sampling.  
 
 ### 3_R
 
-A univariate dataset is a dataset formed by the collection of data coming from a single variable of a set of statistical units.
+A **univariate dataset** is a dataset formed by the collection of data coming from a single variable of a set of statistical units.  
 Let's take as an example a set of players (X) within a football team and as a variable, take their height, we will obtain a dataset having the heights of each player.
-A frequency distribution (histograms, line charts, bar charts and pie charts) instead shows the data in an organized way through a summary of data divided into classes that are mutually exclusive.
-For example, we could have a histogram showing the division of the players within the team based on their height.
-It is not possible to reconstruct a dataset from a distribution since there is a loss of data when passing from the dataset to the distribution, as the association between units (which make up the set of statistical units) and value is lost.
+A frequency distribution (histograms, line charts, bar charts and pie charts) instead shows the data in an organized way through a summary of data divided into classes that are mutually exclusive.  
+For example, we could have a histogram showing the division of the players within the team based on their height.  
+
+It is **not** possible to reconstruct a dataset from a distribution since *there is a loss* of data when passing from the dataset to the distribution, as the association between units (which make up the set of statistical units) and value is lost.  
 This event is wanted since we want to maintain data privacy, in fact we do not want an association between
-unit and specific value. In this process, information is lost but knowledge is gained.  
+unit and specific value. In this process, **information is lost but knowledge is gained.**
 
 ### 1_A  
 
