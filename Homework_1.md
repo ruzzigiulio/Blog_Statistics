@@ -114,4 +114,62 @@ event management in VB.Net, but in general the syntax of c # is similar to other
 
 ### 2_RA
 
+The two files have a similar role, they constitute the entry point of the programs: As is clearly explained in the Program.cs file by a self-generated comment.
 
+```
+using DevExpress.XtraEditors;
+using System;
+using System.Windows.Forms;
+
+namespace WindowsFormsApplication1 {
+    static class Program {
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main() {
+            //Add your code here
+            WindowsFormsSettings.ForceDirectXPaint();
+            WindowsFormsSettings.EnableFormSkins();
+
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
+    }
+}
+```
+
+The Application.Designer.vb file contains the "Myapplication" class:
+
+```
+Partial Friend Class MyApplication
+
+        <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
+        Public Sub New()
+            MyBase.New(Global.Microsoft.VisualBasic.ApplicationServices.AuthenticationMode.Windows)
+            Me.IsSingleInstance = false
+            Me.EnableVisualStyles = true
+            Me.SaveMySettingsOnExit = true
+            Me.ShutDownStyle = Global.Microsoft.VisualBasic.ApplicationServices.ShutdownMode.AfterMainFormCloses
+        End Sub
+
+        <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
+        Protected Overrides Sub OnCreateMainForm()
+            Me.MainForm = Global.Homework1_VB.Form1
+        End Sub
+    End Class
+```    
+
+The OnCreateMainForm method establishes which window must be the startup one (Homework_1VB), while Form1 is the default name that Visual Studio assigns to the main window when a new project is created.
+
+
+
+
+
+
+
+
+
+### Sources
+  https://www.informit.com/articles/article.aspx?p=1602817&seqNum=3
