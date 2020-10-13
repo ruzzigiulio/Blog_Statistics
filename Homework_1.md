@@ -1,7 +1,7 @@
 ### 1_R
 
-In statistics, a statistical population is a set of similar entities, also known as "units",
-which are subject of study due to some interest questions.
+In statistics, a statistical population is a set of entities, also known as "units", that can be grouped together by a common feature.
+They are subject of study due to some interest questions.
 In Descriptive statistics, population is the object from where extract informations, in the
 other hand in Inferential statistics it can be treat as the means to make inferences about
 the population itself.  
