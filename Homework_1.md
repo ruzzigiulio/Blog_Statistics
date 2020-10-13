@@ -111,3 +111,7 @@ In VB, the Handles keyword is used when defining a function to specify that func
 handles a particular event, the AddHandler keyword is used for
 associate an event with an event handler at run time. Personally it seems more comfortable and intuitive to me
 event management in VB.Net, but in general the syntax of c # is similar to other programming languages I know, so I will probably use it.  
+
+### 2_RA
+
+
