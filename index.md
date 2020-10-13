@@ -1,4 +1,5 @@
 ## Giulio Ruzzi 1620394
 
-### Homeworks
+### Homeworks  
 
+[Homework1](https://ruzzigiulio.github.io/Blog_Statistics/Homework1.md)
