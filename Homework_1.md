@@ -112,9 +112,36 @@ In C # to respond to an event you need to define an event handler method (richTe
 in the exercises 1_A) *within* the function that takes care of receiving events (UserControl1).  
 In the event handler you define the necessary actions that must be performed when the event is raised.  
 
+```
+public UserControl1()
+        {
+            InitializeComponent();
+            text_box.DragDrop += new DragEventHandler(richTextBox1_DragDrop);
+            text_box.AllowDrop = true;
+        }
+
+        private void richTextBox1_DragDrop(object sender, DragEventArgs e)
+        {
+        .
+        .
+        .
+        }
+        
+```
+
 In VB, the *Handles* keyword is used when defining a function to specify that function
 handles a particular event, the *AddHandler* keyword is used for
 associate an event with an event handler at run time.   
+
+```
+Private Sub Form1_DragDrop(sender As System.Object, e As System.Windows.Forms.DragEventArgs) Handles text_box.DragDrop
+        Dim files() As String = e.Data.GetData(DataFormats.FileDrop)
+        For Each path In files
+            MsgBox(path)
+        Next
+    End Sub
+```
+  
 Personally it seems more comfortable and intuitive to me the
 event management in VB.Net, but in general the syntax of c # is similar to other programming languages I know, so I will probably use it.  
 
