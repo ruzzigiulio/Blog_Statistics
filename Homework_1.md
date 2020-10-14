@@ -147,7 +147,7 @@ event management in VB.Net, but in general the syntax of c # is similar to other
 
 ### 2_RA
 
-The two files have a similar role, they constitute the *entry point* of the programs: As is clearly explained in the Program.cs file by a self-generated comment.
+The two files have a similar role, they initialize all the form's components and constitute the *entry point* of the programs: As is clearly explained in the Program.cs file by a self-generated comment.
 
 ```
 using DevExpress.XtraEditors;
@@ -210,3 +210,4 @@ The OnCreateMainForm method establishes which window must be the startup one (Ho
   https://en.wikipedia.org/wiki/Statistical_population
   https://stattrek.com/descriptive-statistics/variables.aspx
   https://statisticsbyjim.com/basics/descriptive-inferential-statistics/
+  https://docs.microsoft.com/it-it/dotnet/visual-basic/programming-guide/language-features/procedures/passing-arguments-by-value-and-by-reference
