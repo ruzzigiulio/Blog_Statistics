@@ -147,7 +147,7 @@ event management in VB.Net, but in general the syntax of c # is similar to other
 
 ### 2_RA
 
-The two files have a similar role, they initialize all the form's components and constitute the *entry point* of the programs: As is clearly explained in the Program.cs file by a self-generated comment.
+The two files have a similar role, they initialize all the form's components and constitute the *entry point* of the programs: C# programs use a traditional *Main Function* as is clearly explained in the Program.cs file by a self-generated comment.
 
 ```
 using DevExpress.XtraEditors;
