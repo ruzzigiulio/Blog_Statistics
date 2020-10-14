@@ -205,9 +205,9 @@ The OnCreateMainForm method establishes which window must be the startup one (Ho
 
 
 ### Sources
-  https://en.wikipedia.org/wiki/Unit_of_observation
-  https://www.informit.com/articles/article.aspx?p=1602817&seqNum=3
-  https://en.wikipedia.org/wiki/Statistical_population
-  https://stattrek.com/descriptive-statistics/variables.aspx
-  https://statisticsbyjim.com/basics/descriptive-inferential-statistics/
-  https://docs.microsoft.com/it-it/dotnet/visual-basic/programming-guide/language-features/procedures/passing-arguments-by-value-and-by-reference
+  https://en.wikipedia.org/wiki/Unit_of_observation  
+  https://www.informit.com/articles/article.aspx?p=1602817&seqNum=3  
+  https://en.wikipedia.org/wiki/Statistical_population  
+  https://stattrek.com/descriptive-statistics/variables.aspx  
+  https://statisticsbyjim.com/basics/descriptive-inferential-statistics/  
+  https://docs.microsoft.com/it-it/dotnet/visual-basic/programming-guide/language-features/procedures/passing-arguments-by-value-and-by-reference  
