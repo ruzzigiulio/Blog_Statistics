@@ -1,9 +1,14 @@
 7_R
 
-In probability theory and statistics, the *marginal* distribution of a subset of a collection of random variables is the distribution
-of the variables contained in the subset.
-Given random variables X,Y that are defined on a probability space, the *joint*  distribution for X,Y is a distribution that gives the probability
+> In probability theory and statistics, the *marginal* distribution of a subset of a collection of random variables is the probability distribution of the variables contained in the subset.  
+
+
+
+
+> Given random variables X,Y that are defined on a probability space, the *joint* probability distribution for X,Y is a probability distribution that gives the probability
 that each of X,Y falls in any particular range or discrete set of values specified for that variable.  
+
+So, Joint distributions allow us to reason about the relationship between multiple events.  
 
 
 Example: 
