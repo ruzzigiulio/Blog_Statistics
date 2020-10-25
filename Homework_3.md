@@ -36,8 +36,32 @@ That is, there is a 6.25% chance of death of a randomly selected person in an au
 
 ## 9_R  
 
-The way data should be rapresented depends on the level of measurement, for *Nominal* data you can use pie chart, column or bar chart or stacked column or bar chart.  
-*Ordinal* data can be shown as a column or bar chart, *Interval/Ratio* data can be displayed as bar chart or histogram, boxplot or line chart.
+There are several charts and graph that you can use, these are useful for statistics and data presentation, let's see some of these:
+
+**Flowchart  
+
+Flowcharts help organize the steps, decisions or actions in a process from beginning to end. People often use flowcharts to depict complex situations.
+
+**Pie Chart
+
+A pie chart presents the different parts of a whole. The pieces are different sizes based on how much of the whole they represent.  
+People use pie charts in business presentations to demonstrate population segments, market research responses and budget allocations.
+
+**Histogram
+
+A histogram is another type of bar graph that illustrates the distribution of numeric data across categories. The height or length of each bar in the histogram shows how many entities are in each category.
+
+**Scatter plot
+
+Scatter plots use dots to depict the relationship between two different variables. The process involves plotting one variable along the horizontal axis and the other variable along the vertical axis. The resulting scatter plot demonstrates how much one variable affects the other.
+
+***Differences
+
+Charts are tables, diagrams or pictures that organize large amounts of data in a clear and concise way. People use charts to interpret current data and make predictions. Graphs, however, focus on raw data and show trends over time.
+
+
+
+
 
 For me the heat map is the best method for representing data, as thanks to the colors it is possible to focus attention on key data.  
 
@@ -61,6 +85,7 @@ http://ciep.itam.mx/~rtorres/microapl/usa-elections.pdf
 https://it.wikipedia.org/wiki/Distribuzione_condizionata  
 https://online.stat.psu.edu/stat414/book/export/html/717  
 https://en.wikipedia.org/wiki/Heat_map  
-https://mouseflow.com/blog/2018/11/the-7-advantages-of-website-heat-mapping-as-a-diagnostic-tool/#:~:text=Heatmaps%20provide%20a%20visual%20approach%20to%20understanding%20numeric%20values&text=Although%20heatmaps%20are%20just%20as,rows%20and%20columns%20of%20numbers.  
+https://mouseflow.com/blog/2018/11/the-7-advantages-of-website-heat-mapping-as-a-diagnostic-tool/#:~:text=Heatmaps%20provide%20a%20visual%20approach%20to%20understanding%20numeric%20values&text=Although%20heatmaps%20are%20just%20as,rows%20and%20columns%20of%20numbers.   
+https://www.indeed.com/career-advice/career-development/types-of-graphs-and-charts#3  
 
 
