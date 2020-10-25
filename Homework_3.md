@@ -37,11 +37,14 @@ That is, there is a 6.25% chance of death of a randomly selected person in an au
 
 ## 9_R  
 
+The way data should be rapresented depends on the level of measurement, for *Nominal* data you can use pie chart, column or bar chart or stacked column or bar chart.  
+*Ordinal* data can be shown as a column or bar chart, *Interval/Ratio* data can be displayed as bar chart or histogram, boxplot or line chart.
+
 For me the heat map is the best method for representing data, as thanks to the colors it is possible to focus attention on key data.  
 
 > A heat map (or heatmap) is a data visualization technique that shows magnitude of a phenomenon as color in two dimensions. The variation in color may be by hue or intensity, giving obvious visual cues to the reader about how the phenomenon is clustered or varies over space.  
 
-Heatmaps provide a visual approach to understanding numeric values:  
+Heatmaps provide a *visual* approach to understanding numeric values: "If a picture is worth a thousand words, a single heatmap can be worth a thousand numbers."  
 
 ![ExampleBelt](/Images/heat-map-with-numbers.png)
 
@@ -59,4 +62,6 @@ http://ciep.itam.mx/~rtorres/microapl/usa-elections.pdf
 https://it.wikipedia.org/wiki/Distribuzione_condizionata  
 https://online.stat.psu.edu/stat414/book/export/html/717  
 https://en.wikipedia.org/wiki/Heat_map  
+https://mouseflow.com/blog/2018/11/the-7-advantages-of-website-heat-mapping-as-a-diagnostic-tool/#:~:text=Heatmaps%20provide%20a%20visual%20approach%20to%20understanding%20numeric%20values&text=Although%20heatmaps%20are%20just%20as,rows%20and%20columns%20of%20numbers.  
+
 
