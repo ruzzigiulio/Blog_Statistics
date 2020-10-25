@@ -35,6 +35,14 @@ If a randomly selected person wears no restraint, what is the probability of dea
 That is, there is a 6.25% chance of death of a randomly selected person in an automobile accident, if the person wears no restraint.
 
 
+9_R  
+
+For me the heat map is the best method for representing data, as thanks to the colors it is possible to focus attention on key data.
+
+> A heat map (or heatmap) is a data visualization technique that shows magnitude of a phenomenon as color in two dimensions. The variation in color may be by hue or intensity, giving obvious visual cues to the reader about how the phenomenon is clustered or varies over space.  
+
+Heatmaps provide a visual approach to understanding numeric values
+
 
 
 
@@ -50,3 +58,5 @@ https://en.wikipedia.org/wiki/Marginal_distribution
 http://ciep.itam.mx/~rtorres/microapl/usa-elections.pdf  
 https://it.wikipedia.org/wiki/Distribuzione_condizionata  
 https://online.stat.psu.edu/stat414/book/export/html/717  
+https://en.wikipedia.org/wiki/Heat_map  
+
