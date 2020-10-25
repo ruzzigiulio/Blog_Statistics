@@ -55,10 +55,9 @@ A histogram is another type of bar graph that illustrates the distribution of nu
 
 Scatter plots use dots to depict the relationship between two different variables. The process involves plotting one variable along the horizontal axis and the other variable along the vertical axis. The resulting scatter plot demonstrates how much one variable affects the other.
 
-***Differences
+**Differences
 
-Charts are tables, diagrams or pictures that organize large amounts of data in a clear and concise way. People use charts to interpret current data and make predictions. Graphs, however, focus on raw data and show trends over time.
-
+Charts are tables, diagrams or pictures that organize large amounts of data in a clear and concise way. People use charts to interpret current data and make predictions. Graphs, however, focus on raw data and show trends over time.  
 
 
 
