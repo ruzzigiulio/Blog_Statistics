@@ -18,9 +18,16 @@ We refer to the totals for the different classification criteria as the
 marginal distributions, whereas the results of simultaneously
 considering all classification criteria are the joint distribution.  
 
-![Conditional](/images/Homework3_Conditional.PNG)
 
 Given two random variables X and Y, the conditional distribution of Y given X is the probability of Y when the value assumed by X is known.  
+
+![Conditional](/images/Homework3_Conditional.PNG)  
+
+Example: 
+
+![Conditional](/images/Homework3_ExampleBelt.PNG)  
+
+
 
 
 
