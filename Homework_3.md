@@ -1,14 +1,14 @@
 ## 7_R
 
-> In probability theory and statistics, the *marginal* distribution of a subset of a collection of random variables is the probability distribution of the variables contained in the subset.  
+> In probability theory and statistics, the marginal distribution of a subset of a collection of random variables is the probability distribution of the variables contained in the subset.  
 
-So, a marginal distribution is where you are only interested in one of the random variables.  
+So, a *marginal distribution* is where you are only interested in one of the random variables.  
 
 
 > Given random variables X,Y that are defined on a probability space, the *joint* probability distribution for X,Y is a probability distribution that gives the probability
 that each of X,Y falls in any particular range or discrete set of values specified for that variable.  
 
-So, Joint distributions allow us to reason about the relationship between multiple events.  
+So, *joint distributions* allow us to reason about the relationship between multiple events.  
 
 
 Example: 
@@ -19,7 +19,7 @@ Example:
 The values of the joint distribution are in the 2×2 square;  
 The values of the marginal distributions are along the right and bottom margins.  
 
-Given two random variables X and Y, the conditional distribution of Y given X is the probability of Y when the value assumed by X is known.  
+Given two random variables X and Y, the *conditional distribution* of Y given X is the probability of Y when the value assumed by X is known.  
 
 ![Conditional](/Images/Homework3_Conditional.PNG)  
 
