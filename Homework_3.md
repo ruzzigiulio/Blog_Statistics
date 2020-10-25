@@ -11,7 +11,7 @@ for that variable.
 
 Example: 
 
-![Joint_Marginal](/images/Homework3_JointMarginal.PNG)
+![Joint_Marginal] (/images/Homework3_JointMarginal.PNG)
 
 
 We refer to the totals for the different classification criteria as the
@@ -21,11 +21,11 @@ considering all classification criteria are the joint distribution.
 
 Given two random variables X and Y, the conditional distribution of Y given X is the probability of Y when the value assumed by X is known.  
 
-![Conditional](/images/Homework3_Conditional.PNG)  
+![Conditional] (/images/Homework3_Conditional.PNG)  
 
 Example: 
 
-![Conditional](/images/Homework3_ExampleBelt.PNG)  
+![Conditional] (/images/Homework3_ExampleBelt.PNG)  
 
 
 
