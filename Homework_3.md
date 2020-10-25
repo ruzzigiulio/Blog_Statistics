@@ -13,9 +13,12 @@ Example:
 
 ![Joint_Marginal](/images/Homework3_JointMarginal.PNG)
 
+
 We refer to the totals for the different classification criteria as the
 marginal distributions, whereas the results of simultaneously
-considering all classification criteria are the joint distribution.
+considering all classification criteria are the joint distribution.  
+
+![Conditional](/images/Homework3_Conditional.PNG)
 
 Given two random variables X and Y, the conditional distribution of Y given X is the probability of Y when the value assumed by X is known.  
 
@@ -27,6 +30,7 @@ Given two random variables X and Y, the conditional distribution of Y given X is
 
 Sources:
 
-https://en.wikipedia.org/wiki/Joint_probability_distribution
-https://en.wikipedia.org/wiki/Marginal_distribution
-http://ciep.itam.mx/~rtorres/microapl/usa-elections.pdf
+https://en.wikipedia.org/wiki/Joint_probability_distribution  
+https://en.wikipedia.org/wiki/Marginal_distribution  
+http://ciep.itam.mx/~rtorres/microapl/usa-elections.pdf  
+https://it.wikipedia.org/wiki/Distribuzione_condizionata  
