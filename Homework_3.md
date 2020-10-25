@@ -11,7 +11,7 @@ for that variable.
 
 Example: 
 
-![Joint_Marginal](/images/Homework3_JointMarginal.PNG)
+![Joint_Marginal](/Images/Homework3_JointMarginal.PNG)
 
 
 We refer to the totals for the different classification criteria as the
@@ -21,13 +21,19 @@ considering all classification criteria are the joint distribution.
 
 Given two random variables X and Y, the conditional distribution of Y given X is the probability of Y when the value assumed by X is known.  
 
-![Conditional](/images/Homework3_Conditional.PNG)  
+![Conditional](/Images/Homework3_Conditional.PNG)  
 
 Example: 
 
-![ExampleBelt](/images/Homework3_ExampleBelt.PNG)  
+![ExampleBelt](/Images/Homework3_ExampleBelt.PNG)  
 
 If a randomly selected person wears no restraint, what is the probability of death?  
+
+![ExampleBelt](/Images/Homework3_ConditionalBeltFormula.PNG)  
+
+That is, there is a 6.25% chance of death of a randomly selected person in an automobile accident, if the person wears no restraint.
+
+
 
 
 
