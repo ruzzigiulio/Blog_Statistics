@@ -17,10 +17,8 @@ Example:
 ![Joint_Marginal](/Images/Homework3_JointMarginal.PNG)
 
 
-We refer to the totals for the different classification criteria as the
-marginal distributions, whereas the results of simultaneously
-considering all classification criteria are the joint distribution.  
-
+The values of the joint distribution are in the 2×2 square;  
+The values of the marginal distributions are along the right and bottom margins.  
 
 Given two random variables X and Y, the conditional distribution of Y given X is the probability of Y when the value assumed by X is known.  
 
