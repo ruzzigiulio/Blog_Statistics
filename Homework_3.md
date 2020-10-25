@@ -3,7 +3,6 @@
 > In probability theory and statistics, the *marginal* distribution of a subset of a collection of random variables is the probability distribution of the variables contained in the subset.  
 
 So, a marginal distribution is where you are only interested in one of the random variables.  
-Hence, Marginalisation refers to the process of ‘removing’ the influence of one or more events from a probability.
 
 
 > Given random variables X,Y that are defined on a probability space, the *joint* probability distribution for X,Y is a probability distribution that gives the probability
