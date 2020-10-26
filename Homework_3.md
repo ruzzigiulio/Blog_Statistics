@@ -38,8 +38,7 @@ That is, there is a 6.25% chance of death of a randomly selected person in an au
 
 > In probability theory and statistics, Bayes's theorem (alternatively Bayes's law or Bayes's rule), named after Reverend Thomas Bayes, describes the probability of an event, based on prior knowledge of conditions that might be related to the event.  
 
-
-![ExampleBelt](/Images/Bayes-Theorem.png)
+**P(A|B) = P(B | A) P(A) / P(B)**    where A and B are events and P(B) != 0
 
 
 ## 8_R
