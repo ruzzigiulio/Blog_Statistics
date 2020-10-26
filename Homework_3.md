@@ -70,6 +70,8 @@ For me the heat map is the best method for representing data, as thanks to the c
 
 Heatmaps provide a *visual* approach to understanding numeric values: "If a picture is worth a thousand words, a single heatmap can be worth a thousand numbers."  
 
+As you can see in this heat map, attention is focused on high temperatures in the summer months compared to the lower ones in the other months (Sweden 1901-2015)
+
 ![HeatMap](/Images/heat-map-with-numbers.png)
 
 
@@ -90,5 +92,6 @@ https://en.wikipedia.org/wiki/Heat_map
 https://mouseflow.com/blog/2018/11/the-7-advantages-of-website-heat-mapping-as-a-diagnostic-tool/#:~:text=Heatmaps%20provide%20a%20visual%20approach%20to%20understanding%20numeric%20values&text=Although%20heatmaps%20are%20just%20as,rows%20and%20columns%20of%20numbers.   
 https://www.indeed.com/career-advice/career-development/types-of-graphs-and-charts#3  
 https://wikidiff.com/graph/plot  
+https://www.displayr.com/how-to-make-a-heatmap-in-excel/  
 
 
