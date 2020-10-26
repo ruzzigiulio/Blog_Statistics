@@ -70,6 +70,8 @@ For me the heat map is the best method for representing data, as thanks to the c
 
 Heatmaps provide a *visual* approach to understanding numeric values: "If a picture is worth a thousand words, a single heatmap can be worth a thousand numbers."  
 
+![HeatMap](/Images/heat-map-with-numbers.png)
+
 
 
 
