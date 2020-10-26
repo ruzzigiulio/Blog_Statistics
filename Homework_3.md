@@ -70,9 +70,6 @@ For me the heat map is the best method for representing data, as thanks to the c
 
 Heatmaps provide a *visual* approach to understanding numeric values: "If a picture is worth a thousand words, a single heatmap can be worth a thousand numbers."  
 
-As you can see in this image, the heat map focuses attention on high temperatures during the summer months versus lower temperatures in the remaining months in Central Park
-
-![ExampleBelt](/Images/heat-map-with-numbers.png)
 
 
 
