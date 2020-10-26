@@ -58,8 +58,8 @@ Scatter plots use dots to depict the relationship between two different variable
 **Differences**
 
 Charts are tables, diagrams or pictures that organize large amounts of data in a clear and concise way. People use charts to interpret current data and make predictions. Graphs, however, focus on raw data and show trends over time.  
-Plot is a synonym of graph: we use graph to showing the relationship between two or more quantities, measurements or indicative numbers, in the other hand you need to use plot
-determine significant patterns of events.
+Plot is a synonym of graph: we use graph to showing the relationship between two or more quantities, measurements or indicative numbers, in the other hand, you need to use plot
+to determine significant patterns of events.
 
 
 
