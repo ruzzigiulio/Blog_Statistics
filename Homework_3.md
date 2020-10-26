@@ -58,6 +58,8 @@ Scatter plots use dots to depict the relationship between two different variable
 **Differences
 
 Charts are tables, diagrams or pictures that organize large amounts of data in a clear and concise way. People use charts to interpret current data and make predictions. Graphs, however, focus on raw data and show trends over time.  
+Plot is a synonym of graph: we use graph to showing the relationship between two or more quantities, measurements or indicative numbers, in the other hand you need to use plot
+determine significant patterns of events.
 
 
 
@@ -86,5 +88,6 @@ https://online.stat.psu.edu/stat414/book/export/html/717
 https://en.wikipedia.org/wiki/Heat_map  
 https://mouseflow.com/blog/2018/11/the-7-advantages-of-website-heat-mapping-as-a-diagnostic-tool/#:~:text=Heatmaps%20provide%20a%20visual%20approach%20to%20understanding%20numeric%20values&text=Although%20heatmaps%20are%20just%20as,rows%20and%20columns%20of%20numbers.   
 https://www.indeed.com/career-advice/career-development/types-of-graphs-and-charts#3  
+https://wikidiff.com/graph/plot  
 
 
