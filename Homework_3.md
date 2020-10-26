@@ -33,6 +33,13 @@ If a randomly selected person wears no restraint, what is the probability of dea
 
 That is, there is a 6.25% chance of death of a randomly selected person in an automobile accident, if the person wears no restraint.  
 
+
+
+
+> In probability theory and statistics, Bayes's theorem (alternatively Bayes's law or Bayes's rule), named after Reverend Thomas Bayes, describes the probability of an event, based on prior knowledge of conditions that might be related to the event.  
+
+
+
 ## 8_R
 
 Two random variables are independent if the realization of one does not affect the probability distribution of the other.  
@@ -103,5 +110,6 @@ https://mouseflow.com/blog/2018/11/the-7-advantages-of-website-heat-mapping-as-a
 https://www.indeed.com/career-advice/career-development/types-of-graphs-and-charts#3  
 https://wikidiff.com/graph/plot  
 https://www.displayr.com/how-to-make-a-heatmap-in-excel/  
+https://en.wikipedia.org/wiki/Bayes%27_theorem
 
 
