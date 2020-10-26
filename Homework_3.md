@@ -33,6 +33,14 @@ If a randomly selected person wears no restraint, what is the probability of dea
 
 That is, there is a 6.25% chance of death of a randomly selected person in an automobile accident, if the person wears no restraint.  
 
+## 8_R
+
+> two random variables are independent if the realization of one does not affect the probability distribution of the other.  
+
+Fixed two variables (X,Y), they are independent if and only if their joint probability can be factorized into their marginal probabilities => **P(X ∩ Y) = P(X)P(Y)**, because
+their conditional distribution have all the same shape of their marginals.  
+
+
 
 ## 9_R  
 
