@@ -70,7 +70,7 @@ For me the heat map is the best method for representing data, as thanks to the c
 
 Heatmaps provide a *visual* approach to understanding numeric values: "If a picture is worth a thousand words, a single heatmap can be worth a thousand numbers."  
 
-As you can see in this heat map, attention is focused on high temperatures in the summer months compared to the lower ones in the other months (Sweden 1901-2015)
+As you can see in this heat map, attention is focused on high temperatures in the summer months compared to the lower ones in the other months (Sweden 1901-1917)
 
 ![HeatMap](/Images/heat-map-with-numbers.png)
 
