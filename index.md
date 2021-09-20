@@ -3,5 +3,4 @@
 
 ![image](/images/homepage/statistiche.png)
 
-<img src="/images/homepage/statistiche.png" width="500">
 
