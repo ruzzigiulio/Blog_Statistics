@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+layout: default_01
+title : Statistics Blog
+description: Giulio Ruzzi 1620397
+github:
+  owner_name: Giulio Ruzzi
+  is_project_page: false
+  
+markdown: kramdown
+kramdown:
+  input: GFM   
