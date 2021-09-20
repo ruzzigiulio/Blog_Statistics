@@ -1,5 +1,5 @@
 # Statistics 2021/2022
 ### Giulio Ruzzi 1620394
 
-![home](/images/homepage/statistiche.png)
+![home](/images/homepage/statistiche.png =500x500)
 
