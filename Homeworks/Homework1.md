@@ -3,7 +3,7 @@
 ### Statistics and the relationship with Cybersecurity
 The early writings on statistical inference date back to Arab mathematicians and cryptographers, during the Islamic Golden Age between the 8th and 13th centuries. Al-Khalil (717–786) wrote the Book of Cryptographic Messages, which contains the first use of permutations and combinations, to list all possible Arabic words with and without vowels.In his book, Manuscript on Deciphering Cryptographic Messages, Al-Kindi gave a detailed description of how to use frequency analysis to decipher encrypted messages. Al-Kindi also made the earliest known use of statistical inference, while he and later Arab cryptographers developed the early statistical methods for decoding encrypted messages.
 
-### Statistics as a branch of Math/different kind of Science
+### Statistics as a branch of Math?
 Statistics is a mathematical body of science that pertains to the collection, analysis, interpretation or explanation, and presentation of data, or as a branch of mathematics.Some consider statistics to be a distinct mathematical science rather than a branch of mathematics. While many scientific investigations make use of data, statistics is concerned with the use of data in the context of uncertainty and decision making in the face of uncertainty.
 
 ### Statistical theory/hypothesis
